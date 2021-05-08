@@ -1,8 +1,8 @@
-# AI Car And Pedestrain Tracking with python OpenCV
-
-> AI car and pedestrain Tracking built with Python and openCv library. The Project file has demo video but you can replace with your own video by just replacing `ped_car_Trim1.mp4` file with your own video. 
-- when the Tracker runs it will show two different color boxes. 
-- The one with pink color indicates pedestrain
+# AI Car And Pedestrian Tracking with python OpenCV
+ 
+> AI car and pedestrian Tracking built with Python and openCv library. The Project file has a demo video but you can replace it with your own video by just replacing `ped_car_Trim1.mp4` file with your own video.
+- when the Tracker runs it will show two different color boxes.
+- The one with pink color indicates pedestrian
 - The one with green color indicates cars.
 
 ![Screenshot1](./Screenshot1.png)
