@@ -3,7 +3,7 @@ import cv2
 # Our image
 img_file = 'car.jpg'
 # video = cv2.VideoCapture('cars1.mp4')
-video = cv2.VideoCapture('ped_car_Trim.mp4')
+video = cv2.VideoCapture('ped_car_Trim1.mp4')
 
 
 # Create open cv image
