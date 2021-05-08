@@ -5,9 +5,9 @@
 - The one with pink color indicates pedestrain
 - The one with green color indicates cars.
 
-[ScreenShot1](./Screenshot1.png)
+![Screenshot1](./Screenshot1.png)
 
-[Screenshot2](./Screenshot2.png)
+![Screenshot2](./Screenshot2.png)
 
 
 ## Built With
